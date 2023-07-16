@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehdi Zarei</h1>
 <h3 align="center">Welcome to my page</h3>
 
-- 👨‍💻 All of my projects are available at [https://mehdizarei.iran.liara.run/](https://mehdizarei.iran.liara.run/)
+- 👨‍💻 All of my projects are available at [https://mehdizarei2000.ir/](https://mehdizarei.iran.liara.run/)
 
 - 💬 Ask me about **java script, reactjs, nextjs**
 
